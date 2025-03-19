@@ -34,4 +34,4 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Arca/WhoGetsThis.git
+git clone https://github.com/Arcaniyx/WhoGetsThis.git
