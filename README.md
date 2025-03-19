@@ -22,12 +22,17 @@
   - The interface design is inspired by the look and feel of **Genshin Impact**, providing an intuitive and familiar experience for users who are accustomed to the game. The layout is clean and user-friendly, with a focus on making the artefact input process as easy and seamless as possible.
   - A sleek, responsive design ensures the site works well on both desktop and mobile devices, offering an enjoyable experience for all users.
 
+## Technologies Used
+
+- **React**: For building the user interface.
+- **TypeScript**: For adding static types to the project and ensuring better code quality and maintainability.
+
 ## Installation
 
 ### Prerequisites
 
 - Node.js (version 14 or higher)
-- NPM or Yarn
+- NPM
 
 ### Installation Steps
 
@@ -35,3 +40,16 @@
 
 ```bash
 git clone https://github.com/Arcaniyx/WhoGetsThis.git
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+3. Run the project
+
+```bash
+npm start
+```
